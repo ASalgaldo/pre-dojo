@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Caros o projeto necessita da biblioteca do JUnit4 e JDK 1.8
+Os arquivos .project, classpath, etc nÃ£o foram add pois existe uma regra de ignore no repositorio de vocÃªs.
+
+Obrigado
